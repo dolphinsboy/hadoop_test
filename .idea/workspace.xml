@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6a78ac1-e7a0-4630-962d-28a4c65ac8cb" name="Default" comment="" />
+    <list default="true" id="e6a78ac1-e7a0-4630-962d-28a4c65ac8cb" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/README.md5" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -413,28 +416,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Configured.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.0/hadoop-common-2.6.0.jar!/org/apache/hadoop/conf/Configured.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="12" column="47" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="47" />
-              <folding>
-                <marker date="1482732128000" expanded="false" signature="0:104" ph="/.../" />
-                <marker date="1482732128000" expanded="false" signature="146:271" ph="..." />
-                <marker date="1482732128000" expanded="true" signature="273:288" ph="@{...}" />
-                <marker date="1482732128000" expanded="false" signature="395:406" ph=" { " />
-                <marker date="1482732128000" expanded="false" signature="432:438" ph=" }" />
-                <marker date="1482732128000" expanded="false" signature="481:492" ph=" { " />
-                <marker date="1482732128000" expanded="false" signature="511:517" ph=" }" />
-                <marker date="1482732128000" expanded="false" signature="562:573" ph=" { " />
-                <marker date="1482732128000" expanded="false" signature="590:596" ph=" }" />
-                <marker date="1482732128000" expanded="false" signature="632:643" ph=" { " />
-                <marker date="1482732128000" expanded="false" signature="660:666" ph=" }" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -464,6 +445,7 @@
         <option value="$PROJECT_DIR$/src/main/java/org/culiu/data/MaxTemperature.java" />
         <option value="$PROJECT_DIR$/src/test/java/ShowFileStatusTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/README.md5" />
       </list>
     </option>
   </component>
@@ -538,24 +520,6 @@
             <path>
               <item name="maxtemperature" type="b2602c69:ProjectViewProjectNode" />
               <item name="maxtempature" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maxtemperature" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maxtempature" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maxtemperature" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maxtempature" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maxtemperature" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maxtempature" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-              <item name="maxtempature_jar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="maxtemperature" type="b2602c69:ProjectViewProjectNode" />
@@ -1034,7 +998,7 @@
       <workItem from="1539672987567" duration="4149000" />
       <workItem from="1539694264154" duration="267000" />
       <workItem from="1539741021009" duration="6411000" />
-      <workItem from="1539759938211" duration="1653000" />
+      <workItem from="1539759938211" duration="1926000" />
     </task>
     <servers />
   </component>
@@ -1056,10 +1020,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12802000" />
+    <option name="totallyTimeSpent" value="13075000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="988" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1072,7 +1037,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32873562" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22528736" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22528736" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19542067" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2049,6 +2014,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="20" column="42" lean-forward="false" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md5">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
           <folding />
         </state>
       </provider>
